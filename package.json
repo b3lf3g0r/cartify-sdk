@@ -1,0 +1,42 @@
+{
+  "name": "cartify-sdk",
+  "version": "0.0.0",
+  "description": "Fast, powerful, and easy to use JavaScript SDK for building and managing carts, checkouts and receipts for your e-commerce front-end from the cartify API.",
+  "homepage": "https://github.com/b3lf3g0r/cartify-sdk#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "jest --coverage=true --coverageReporters=cobertura",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3lf3g0r/cartify-sdk.git"
+  },
+  "author": "b3lf3g0r",
+  "license": "BSD 3-Clause License",
+  "bugs": {
+    "url": "https://github.com/b3lf3g0r/cartify-sdk/issues"
+  },
+  "keywords": [
+    "cartify",
+    "cartify-sdk",
+    "sdk",
+    "ecommerce",
+    "headless-ecommerce-sdk"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.10.0"
+  }
+}
