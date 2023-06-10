@@ -43,7 +43,7 @@ Fast, powerful, and easy to use JavaScript SDK for building <br /> and managing 
 
 **_Our documentation module source code resides in `cartify-sdk/docs`_**
 
-**_If you would like to make contributions to the Astro SDK documentation source, here is a [guide](https://github.com/b3lf3g0r/cartify-sdk/blob/main/CONTRIBUTING.md) in doing so._**
+**_If you would like to make contributions to the Cartify SDK documentation source, here is a [guide](https://github.com/b3lf3g0r/cartify-sdk/blob/main/CONTRIBUTING.md) in doing so._**
 
 ## Contributing
 >
